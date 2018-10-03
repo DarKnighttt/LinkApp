@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1d1e3a</color>
+    <color name="colorPrimaryDark">#45e3e4</color>
+    <color name="colorAccent">#ff4e60</color>
+    <color name="background_material_light">#f3f2f0</color>
+    <color name="background_material_dark">#f3f2f0</color>
+    <color name="link_status_1">#96d800</color>
+    <color name="link_status_2">#d93436</color>
+    <color name="link_status_3">#D3D3D3</color>
+
+</resources>

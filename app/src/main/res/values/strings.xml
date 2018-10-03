@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinkApp</string>
+    <string name="tab_test">Test</string>
+    <string name="tab_history">History</string>
+    <string name="link_hint">Your link</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_incorrect">Incorrect</string>
+    <string name="btn_all">All</string>
+</resources>
